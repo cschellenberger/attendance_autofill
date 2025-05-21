@@ -1,0 +1,6 @@
+# requirements.txt
+# Python dependencies for attendance automation
+pandas
+pyautogui
+# For building an executable (dev only)
+pyinstaller
